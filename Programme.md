@@ -53,8 +53,8 @@
 | 10:45-11:30 | Practical_7: Cell-cell communication (cont.) | Claudio Novella Rausell |
 | 11:30-12:15 | Wrap-up / Questions |  |
 | 12:15-13:15 | _Lunch_ | |
-| 13:15-13:45 | Talk 1 | TBD |
-| 13:45-14:15 | Talk 2 | TBD |
+| 13:15-13:45 | Talk 1 | Benedetta manzato (LUMC) |
+| 13:45-14:15 | Talk 2 | Miao-Ping Chien (Erasmus MC) |
 | 14:15-14:30 | _Break_ | |
 | 14:30-15:00 | Talk 3 | Matthijs Sanders (Erasmus MC) |
 | 15:00-15:30 | Talk 4 | Ralph Stadhouders (Erasmus MC) |

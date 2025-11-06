@@ -37,9 +37,9 @@
 | 09:45-10:30 | Practical_5: SRT data integration | Benedetta Manzato |
 | 10:30-10:45 | _Break_ | |
 | 10:45-11:30 | Practical_5: SRT data integration (cont.) | Benedetta Manzato |
-| 11:30-12:15 | Lecture: Graph representations | Ahmed Mahfouz |
+| 11:30-12:15 | Lecture: Introduction to domain identification and niche reconstruction | Ahmed Mahfouz |
 | 12:15-13:15 | _Lunch_ | |
-| 13:15-14:00 | Lecture: Spatial domain identification | Benedetta Manzato |
+| 13:15-14:00 | Lecture: Spatial domain identification methods and spatial annotation | Benedetta Manzato |
 | 14:00-14:45 | Practical_6: Nich reconstruction & domain identification | Benedetta Manzato |
 | 14:45-15:00 | _Break_ | |
 | 15:00-15:45 | Practical_6: Nich reconstruction & domain identification (cont.) | Benedetta Manzato |

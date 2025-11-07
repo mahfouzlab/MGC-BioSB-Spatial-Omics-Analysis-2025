@@ -47,4 +47,5 @@ dependencies:
   - pip:
       - spatialdata
 
-  # python -m ipykernel install --user --name spatial-transcriptomics-visiumhd --display-name "Practical 4 - Sequence-based Data Analysis"
+  # conda env create -f spatial-transcriptomics.yml
+  # python -m ipykernel install --user --name spatial-transcriptomics

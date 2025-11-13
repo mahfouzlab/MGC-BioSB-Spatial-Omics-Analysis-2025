@@ -53,11 +53,11 @@
 | 10:45-11:30 | Practical_7: Cell-cell communication (cont.) | Claudio Novella Rausell |
 | 11:30-12:15 | Wrap-up / Questions |  |
 | 12:15-13:15 | _Lunch_ | |
-| 13:15-13:45 | Talk 1 | Benedetta manzato (LUMC) |
-| 13:45-14:15 | Talk 2 | Miao-Ping Chien (Erasmus MC) |
+| 13:15-13:45 | Alignment of multi-modal spatial omics for kidney regeneration | Benedetta Manzato (LUMC) |
+| 13:45-14:15 | Live Spatial Omics Technology for Cancer Biology | Miao-Ping Chien (Erasmus MC) |
 | 14:15-14:30 | _Break_ | |
-| 14:30-15:00 | Talk 3 | Matthijs Sanders (Erasmus MC) |
-| 15:00-15:30 | Talk 4 | Ralph Stadhouders (Erasmus MC) |
+| 14:30-15:00 | Interrogation of the tumor microenvironment using spatial transcriptomics | Matthijs Sanders (Erasmus MC) |
+| 15:00-15:30 | Spatial tissue profiling to elucidate anti-tumor immunity | Ralph Stadhouders (Erasmus MC) |
 | 15:30-17:00 | Drinks | |
 
 ## [Back to main](README.md)

@@ -38,6 +38,8 @@ More information: [LUMC Educational Building](https://www.universiteitleiden.nl/
 ### Practicals
 For this course, we make use of Posit Cloud. All you need for this is a browser. **Please bring your own laptop**. You will receive more instructions at the beginning of the course.
 
+Some of the datasets used during the course are too big to include here. You can find those on Zenodo: https://doi.org/10.5281/zenodo.17641419 
+
 ### Instructors
 - Susan Kloet (LUMC)
 - Miao Chien (Erasmus MC)
